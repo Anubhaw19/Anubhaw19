@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anubhaw Kumar Sharma</h1>
 <h3 align="center">A Mining Engineer | Android App developer | vector Artist | IoT enthusiast</h3> <br>
-<img align="right" alt="GIF" src="hello.gif" width="200"/><br>
+<img align="right" alt="GIF" src="hello.gif" width="300"/><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhaw19&label=Profile%20views&color=0e75b6&style=flat" alt="anubhaw19" /> </p>
 
@@ -27,7 +27,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anubhaw19&show_icons=true&locale=en&layout=compact" alt="anubhaw19" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anubhaw19&show_icons=true&locale=en" alt="anubhaw19" /></p>
-<img align="right" alt="GIF" src="miner.gif" width="500"/>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
