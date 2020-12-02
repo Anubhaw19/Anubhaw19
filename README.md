@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anubhaw Kumar Sharma</h1>
 <h3 align="center">A Mining Engineer | Android App developer | vector Artist | IoT enthusiast</h3> <br>
+<img align="right" alt="GIF" src="hello.gif" width="200"/>
 <img align="right" alt="GIF" src="miner.gif" width="500"/>
 
-<img align="right" alt="GIF" src="hello.gif" width="500"/>
 <br>
 
 
