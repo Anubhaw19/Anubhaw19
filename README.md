@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anubhaw Kumar Sharma</h1>
 <h3 align="center">A Mining Engineer | Android App developer | vector Artist | IoT enthusiast</h3> <br>
-<img align="right" alt="GIF" src="miner.gif" width="500"/>
+<img align="right" alt="GIF" src="miner.gif" width="500"/> <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhaw19&label=Profile%20views&color=0e75b6&style=flat" alt="anubhaw19" /> </p>
 
