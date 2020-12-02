@@ -15,9 +15,10 @@
 - Loves to draw vector arts
 
 - My Mentors are [Sourav Paul](https://github.com/souravpaul8) and [Snehal](https://github.com/snehal2398) sir.
-<img align="right" alt="GIF" src="hello.gif" width="200"/><br>
 
 - My colleague is [Shivam Anand](https://github.com/anandshivam44),together we are [#Team_Voyager](https://www.facebook.com/teamvoyagerfb/)
+
+<img align="right" alt="GIF" src="hello.gif" width="200"/><br>
    
 <br>
 
