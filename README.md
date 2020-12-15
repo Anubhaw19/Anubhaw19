@@ -2,7 +2,6 @@
 <h3 align="center">A Mining Engineer | Android App developer | vector Artist | IoT enthusiast</h3> <br>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anubhaw19&label=Profile%20views&color=0e75b6&style=flat" alt="anubhaw19" /> </p>
 
 <h3> 👨 About Me </h3>
 
@@ -40,3 +39,4 @@
 <a href="https://www.codechef.com/users/anubhaw19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anubhaw19" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/anubhaw19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="anubhaw19" height="30" width="40" /></a>
 </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=anubhaw19&label=Profile%20views&color=0e75b6&style=flat" alt="anubhaw19" /> </p>
