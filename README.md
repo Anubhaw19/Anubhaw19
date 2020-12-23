@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anubhaw Kumar Sharma</h1>
 <h3 align="center">A Mining Engineer | Android App developer | vector Artist | IoT enthusiast</h3> <br>
 
-
+<img align="right" alt="GIF" src="hello.gif" width="200"/>
 
 <h3> 👨 About Me </h3>
 
@@ -17,7 +17,7 @@
 
 - My colleague is [Shivam Anand](https://github.com/anandshivam44),together we are [#Team_Voyager](https://www.facebook.com/teamvoyagerfb/)
 
-<img align="right" alt="GIF" src="hello.gif" width="200"/><br>
+
    
 <br>
 
