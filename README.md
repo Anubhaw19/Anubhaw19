@@ -5,9 +5,9 @@
 
 <h3> 👨 About Me </h3>
 
-- Undergraduate student,pursuing B.Tech in Mining Engineering (2k18 - 22) at [BIT Sindri](https://bitsindri.ac.in/)
+- Undergraduate student,pursuing B.Tech in Mining Engineering (2018 - 22) at [BIT Sindri](https://bitsindri.ac.in/)
 
-- Vice President at Hackathon and coding club [HnCC](https://hnccbits.com/)
+- Former Vice President at Hackathon and coding club [HnCC](https://hnccbits.com/)
 
 - Interested in Android App development
 
