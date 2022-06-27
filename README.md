@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Anubhaw Kumar Sharma</h1>
-<h3 align="center">A Mining Engineer | Android App developer | vector Artist </h3> <br>
+<h3 align="center">Self-taught Programmer | Android App developer | vector Artist </h3> <br>
 
 <img align="right" alt="GIF" src="hello.gif" width="200"/>
 
 <h3> 👨 About Me </h3>
 
-- Undergraduate student,pursuing B.Tech in Mining Engineering (2018 - 22) at [BIT Sindri](https://bitsindri.ac.in/)
+- Mining Engineer ,but programmer by choice
 
 - Former Vice President at Hackathon and coding club [HnCC](https://hnccbits.com/)
 
-- Interested in Android App development
+- Interested in Android App development, DevOPS and Network security
 
-- Loves to draw vector arts
+- Loves to play with vector arts
 
 - My Mentors are [Sourav Paul](https://github.com/souravpaul8) and [Snehal](https://github.com/snehal2398) sir.
 
