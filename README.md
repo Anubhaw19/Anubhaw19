@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anubhaw Kumar Sharma</h1>
+<h1 align="center">Hi 👋, I'm Anubhaw</h1>
 <h3 align="center">Self-taught Programmer | Android App developer | vector Artist </h3> <br>
 
 <img align="right" alt="GIF" src="hello.gif" width="200"/>
