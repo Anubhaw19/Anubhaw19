@@ -5,7 +5,7 @@
 
 <h3> 👨 About Me </h3>
 
-- Mining Engineer ,but programmer by choice
+- Mining Engineer ,but programmer by passion
 
 - Former Vice President at Hackathon and coding club [HnCC](https://hnccbits.com/)
 
