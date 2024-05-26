@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anubhaw</h1>
 <h3 align="center">Experienced data professional specializing in analytics, visualization, and MLOps.  </h3> <br>
 
-<img align="right" alt="GIF" src="hello.gif" width="200"/>
+<!-- <img align="right" alt="GIF" src="hello.gif" width="200"/> -->
 
 <h3> 👨 About Me </h3>
 
