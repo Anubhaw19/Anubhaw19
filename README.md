@@ -9,13 +9,10 @@
 
 - Former Vice President at Hackathon and coding club [HnCC](https://hnccbits.com/)
 
-- Interested in Android App development, DevOPS and Network security
+- Interested in Data Science & Analytics
 
-- Loves to play with vector arts
+- Loves to play with weights 🏋️‍♂️ and vector arts 🖼️
 
-- My Mentors are [Sourav Paul](https://github.com/souravpaul8) and [Snehal](https://github.com/snehal2398) sir.
-
-- My colleague is [Shivam Anand](https://github.com/anandshivam44),together we are [#Team_Voyager](https://www.facebook.com/teamvoyagerfb/)
 <!-- - Checkout [My Website](https://anubhaw-website.herokuapp.com/) -->
 
 
